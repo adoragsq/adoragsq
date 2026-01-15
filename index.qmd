@@ -1,0 +1,21 @@
+---
+title: "Home"
+---
+
+# Hello, I’m Adora 👋
+
+I’m a **Year 1 Applied Computing (FinTech) student at SIT**. I enjoy working on **data projects**, building small tools that make life easier, and learning new tech through hands-on practice.
+
+## What you’ll find here
+- A short introduction about me
+- A project page (something I’ve done before entering SIT / a meaningful project)
+- A data visualisation I created (with real numeric data)
+- My reflection on using GenAI in this assessment
+
+## Quick facts
+- 🎓 Applied Computing (FinTech), SIT  
+- 💡 Interested in data engineering + visualisation  
+- 🧩 I like organising things (yes, spreadsheets are a personality trait)  
+- ☕ Favourite drink: hojicha latte  
+
+> This website is built with **Quarto** and hosted using **GitHub Pages**.

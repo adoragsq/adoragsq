@@ -1,0 +1,58 @@
+---
+title: "Data Visualisation"
+---
+
+# Data Visualisation
+
+This page presents a simple data visualisation created using **R and tidyverse**, based on concepts learnt in the introductory lessons.
+
+## Dataset used
+
+I used the built-in dataset `mtcars`, which contains numeric information about different car models.
+Some of the variables include:
+
+- `mpg`: miles per gallon (fuel efficiency)
+- `wt`: weight of the car (in 1000 lbs)
+- `cyl`: number of cylinders
+
+```{r}
+#| echo: true
+library(tidyverse)
+
+head(mtcars)
+```
+
+``` {r}
+#| echo: true
+cars <- mtcars |>
+as_tibble() |>
+select(mpg, wt, cyl)
+
+cars
+
+```
+
+```{r}
+#| echo: true
+ggplot(cars, aes(x = wt, y = mpg)) +
+geom_point() +
+labs(
+title = "Fuel Efficiency vs Car Weight",
+x = "Weight (1000 lbs)",
+y = "Miles per Gallon (mpg)"
+)
+
+```
+
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```

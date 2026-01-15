@@ -1,0 +1,25 @@
+---
+title: "Project"
+---
+
+# A Project I’m Proud Of
+
+This page highlights a project that represents how I think and work — breaking down problems, testing ideas quickly, and iterating.
+
+## Project Title: Mini Data Tracker / Automation (Example)
+**Goal:** Make repetitive tracking easier by automatically capturing structured information and saving it in a clean format.
+
+### What I did
+- Designed the data structure (fields and categories)
+- Implemented a workflow that reduces manual input
+- Tested edge cases (missing values, inconsistent inputs)
+
+### What I learned
+- Small automations save a lot of time when used daily
+- Clean structure matters more than fancy features
+- Testing for missing values early prevents messy output later
+
+## Next improvements
+- Add validation rules
+- Add dashboard summaries
+- Improve user experience (fewer clicks, clearer prompts)

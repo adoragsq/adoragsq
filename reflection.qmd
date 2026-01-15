@@ -1,0 +1,33 @@
+---
+title: "Reflection on the use of GenAI"
+---
+
+# Reflection on the use of GenAI
+
+For this assessment, I used **GenAI (ChatGPT)** to support my workflow while still ensuring I understood and verified the final output.
+
+## Why I chose this tool
+- It helps me organise ideas quickly
+- It explains syntax and errors clearly
+- It speeds up drafting and formatting in Quarto
+
+## How GenAI helped (with examples)
+- **Quarto structure:** I used it to generate starter templates for pages (YAML + headings)
+- **Debugging:** It helped me identify issues like unclosed code fences in code chunks
+- **Polishing writing:** It improved the clarity and structure of my paragraphs and page flow
+
+## What I found beneficial
+- Faster iteration (I can try → fix → improve quickly)
+- Clear explanations when I’m stuck
+- Good for formatting and structuring content
+
+## What was challenging
+- I still need to verify suggestions (some solutions may not fit my exact setup)
+- It’s easy to copy without thinking, so I made sure to test and understand each part
+
+## How GenAI might help in my future studies/work
+I think GenAI will be useful for:
+- Drafting documentation
+- Checking code logic and edge cases
+- Improving productivity for routine tasks
+- Learning new tools faster through guided examples

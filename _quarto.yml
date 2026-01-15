@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Adora Goh"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: project.qmd
+        text: Project
+      - href: data-visualisation.qmd
+        text: Data Visualisation
+      - href: reflection.qmd
+        text: Reflection
+  search: true
+  page-navigation: true
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+

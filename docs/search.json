@@ -1,0 +1,100 @@
+[
+  {
+    "objectID": "project.html",
+    "href": "project.html",
+    "title": "Project",
+    "section": "",
+    "text": "This page highlights a project that represents how I think and work — breaking down problems, testing ideas quickly, and iterating.\n\n\nGoal: Make repetitive tracking easier by automatically capturing structured information and saving it in a clean format.\n\n\n\nDesigned the data structure (fields and categories)\nImplemented a workflow that reduces manual input\nTested edge cases (missing values, inconsistent inputs)\n\n\n\n\n\nSmall automations save a lot of time when used daily\nClean structure matters more than fancy features\nTesting for missing values early prevents messy output later\n\n\n\n\n\n\nAdd validation rules\nAdd dashboard summaries\nImprove user experience (fewer clicks, clearer prompts)"
+  },
+  {
+    "objectID": "project.html#project-title-mini-data-tracker-automation-example",
+    "href": "project.html#project-title-mini-data-tracker-automation-example",
+    "title": "Project",
+    "section": "",
+    "text": "Goal: Make repetitive tracking easier by automatically capturing structured information and saving it in a clean format.\n\n\n\nDesigned the data structure (fields and categories)\nImplemented a workflow that reduces manual input\nTested edge cases (missing values, inconsistent inputs)\n\n\n\n\n\nSmall automations save a lot of time when used daily\nClean structure matters more than fancy features\nTesting for missing values early prevents messy output later"
+  },
+  {
+    "objectID": "project.html#next-improvements",
+    "href": "project.html#next-improvements",
+    "title": "Project",
+    "section": "",
+    "text": "Add validation rules\nAdd dashboard summaries\nImprove user experience (fewer clicks, clearer prompts)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "I’m a Year 1 Applied Computing (FinTech) student at SIT. I enjoy working on data projects, building small tools that make life easier, and learning new tech through hands-on practice.\n\n\n\nA short introduction about me\nA project page (something I’ve done before entering SIT / a meaningful project)\nA data visualisation I created (with real numeric data)\nMy reflection on using GenAI in this assessment\n\n\n\n\n\n🎓 Applied Computing (FinTech), SIT\n\n💡 Interested in data engineering + visualisation\n\n🧩 I like organising things (yes, spreadsheets are a personality trait)\n\n☕ Favourite drink: hojicha latte\n\n\nThis website is built with Quarto and hosted using GitHub Pages."
+  },
+  {
+    "objectID": "index.html#what-youll-find-here",
+    "href": "index.html#what-youll-find-here",
+    "title": "Home",
+    "section": "",
+    "text": "A short introduction about me\nA project page (something I’ve done before entering SIT / a meaningful project)\nA data visualisation I created (with real numeric data)\nMy reflection on using GenAI in this assessment"
+  },
+  {
+    "objectID": "index.html#quick-facts",
+    "href": "index.html#quick-facts",
+    "title": "Home",
+    "section": "",
+    "text": "🎓 Applied Computing (FinTech), SIT\n\n💡 Interested in data engineering + visualisation\n\n🧩 I like organising things (yes, spreadsheets are a personality trait)\n\n☕ Favourite drink: hojicha latte\n\n\nThis website is built with Quarto and hosted using GitHub Pages."
+  },
+  {
+    "objectID": "reflection.html",
+    "href": "reflection.html",
+    "title": "Reflection on the use of GenAI",
+    "section": "",
+    "text": "For this assessment, I used GenAI (ChatGPT) to support my workflow while still ensuring I understood and verified the final output.\n\n\n\nIt helps me organise ideas quickly\nIt explains syntax and errors clearly\nIt speeds up drafting and formatting in Quarto\n\n\n\n\n\nQuarto structure: I used it to generate starter templates for pages (YAML + headings)\nDebugging: It helped me identify issues like unclosed code fences in code chunks\nPolishing writing: It improved the clarity and structure of my paragraphs and page flow\n\n\n\n\n\nFaster iteration (I can try → fix → improve quickly)\nClear explanations when I’m stuck\nGood for formatting and structuring content\n\n\n\n\n\nI still need to verify suggestions (some solutions may not fit my exact setup)\nIt’s easy to copy without thinking, so I made sure to test and understand each part\n\n\n\n\nI think GenAI will be useful for: - Drafting documentation - Checking code logic and edge cases - Improving productivity for routine tasks - Learning new tools faster through guided examples"
+  },
+  {
+    "objectID": "reflection.html#why-i-chose-this-tool",
+    "href": "reflection.html#why-i-chose-this-tool",
+    "title": "Reflection on the use of GenAI",
+    "section": "",
+    "text": "It helps me organise ideas quickly\nIt explains syntax and errors clearly\nIt speeds up drafting and formatting in Quarto"
+  },
+  {
+    "objectID": "reflection.html#how-genai-helped-with-examples",
+    "href": "reflection.html#how-genai-helped-with-examples",
+    "title": "Reflection on the use of GenAI",
+    "section": "",
+    "text": "Quarto structure: I used it to generate starter templates for pages (YAML + headings)\nDebugging: It helped me identify issues like unclosed code fences in code chunks\nPolishing writing: It improved the clarity and structure of my paragraphs and page flow"
+  },
+  {
+    "objectID": "reflection.html#what-i-found-beneficial",
+    "href": "reflection.html#what-i-found-beneficial",
+    "title": "Reflection on the use of GenAI",
+    "section": "",
+    "text": "Faster iteration (I can try → fix → improve quickly)\nClear explanations when I’m stuck\nGood for formatting and structuring content"
+  },
+  {
+    "objectID": "reflection.html#what-was-challenging",
+    "href": "reflection.html#what-was-challenging",
+    "title": "Reflection on the use of GenAI",
+    "section": "",
+    "text": "I still need to verify suggestions (some solutions may not fit my exact setup)\nIt’s easy to copy without thinking, so I made sure to test and understand each part"
+  },
+  {
+    "objectID": "reflection.html#how-genai-might-help-in-my-future-studieswork",
+    "href": "reflection.html#how-genai-might-help-in-my-future-studieswork",
+    "title": "Reflection on the use of GenAI",
+    "section": "",
+    "text": "I think GenAI will be useful for: - Drafting documentation - Checking code logic and edge cases - Improving productivity for routine tasks - Learning new tools faster through guided examples"
+  },
+  {
+    "objectID": "data-visualisation.html",
+    "href": "data-visualisation.html",
+    "title": "Data Visualisation",
+    "section": "",
+    "text": "This page presents a simple data visualisation created using R and tidyverse, based on concepts learnt in the introductory lessons.\n\n\nI used the built-in dataset mtcars, which contains numeric information about different car models. Some of the variables include:\n\nmpg: miles per gallon (fuel efficiency)\nwt: weight of the car (in 1000 lbs)\ncyl: number of cylinders\n\n\nlibrary(tidyverse)\n\n── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──\n✔ dplyr     1.1.4     ✔ readr     2.1.6\n✔ forcats   1.0.1     ✔ stringr   1.6.0\n✔ ggplot2   4.0.1     ✔ tibble    3.3.0\n✔ lubridate 1.9.4     ✔ tidyr     1.3.2\n✔ purrr     1.2.0     \n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()\nℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors\n\nhead(mtcars)\n\n                   mpg cyl disp  hp drat    wt  qsec vs am gear carb\nMazda RX4         21.0   6  160 110 3.90 2.620 16.46  0  1    4    4\nMazda RX4 Wag     21.0   6  160 110 3.90 2.875 17.02  0  1    4    4\nDatsun 710        22.8   4  108  93 3.85 2.320 18.61  1  1    4    1\nHornet 4 Drive    21.4   6  258 110 3.08 3.215 19.44  1  0    3    1\nHornet Sportabout 18.7   8  360 175 3.15 3.440 17.02  0  0    3    2\nValiant           18.1   6  225 105 2.76 3.460 20.22  1  0    3    1\n\n\n\ncars &lt;- mtcars |&gt;\nas_tibble() |&gt;\nselect(mpg, wt, cyl)\n\ncars\n\n# A tibble: 32 × 3\n     mpg    wt   cyl\n   &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt;\n 1  21    2.62     6\n 2  21    2.88     6\n 3  22.8  2.32     4\n 4  21.4  3.22     6\n 5  18.7  3.44     8\n 6  18.1  3.46     6\n 7  14.3  3.57     8\n 8  24.4  3.19     4\n 9  22.8  3.15     4\n10  19.2  3.44     6\n# ℹ 22 more rows\n\n\n\nggplot(cars, aes(x = wt, y = mpg)) +\ngeom_point() +\nlabs(\ntitle = \"Fuel Efficiency vs Car Weight\",\nx = \"Weight (1000 lbs)\",\ny = \"Miles per Gallon (mpg)\"\n)"
+  },
+  {
+    "objectID": "data-visualisation.html#dataset-used",
+    "href": "data-visualisation.html#dataset-used",
+    "title": "Data Visualisation",
+    "section": "",
+    "text": "I used the built-in dataset mtcars, which contains numeric information about different car models. Some of the variables include:\n\nmpg: miles per gallon (fuel efficiency)\nwt: weight of the car (in 1000 lbs)\ncyl: number of cylinders\n\n\nlibrary(tidyverse)\n\n── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──\n✔ dplyr     1.1.4     ✔ readr     2.1.6\n✔ forcats   1.0.1     ✔ stringr   1.6.0\n✔ ggplot2   4.0.1     ✔ tibble    3.3.0\n✔ lubridate 1.9.4     ✔ tidyr     1.3.2\n✔ purrr     1.2.0     \n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()\nℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors\n\nhead(mtcars)\n\n                   mpg cyl disp  hp drat    wt  qsec vs am gear carb\nMazda RX4         21.0   6  160 110 3.90 2.620 16.46  0  1    4    4\nMazda RX4 Wag     21.0   6  160 110 3.90 2.875 17.02  0  1    4    4\nDatsun 710        22.8   4  108  93 3.85 2.320 18.61  1  1    4    1\nHornet 4 Drive    21.4   6  258 110 3.08 3.215 19.44  1  0    3    1\nHornet Sportabout 18.7   8  360 175 3.15 3.440 17.02  0  0    3    2\nValiant           18.1   6  225 105 2.76 3.460 20.22  1  0    3    1\n\n\n\ncars &lt;- mtcars |&gt;\nas_tibble() |&gt;\nselect(mpg, wt, cyl)\n\ncars\n\n# A tibble: 32 × 3\n     mpg    wt   cyl\n   &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt;\n 1  21    2.62     6\n 2  21    2.88     6\n 3  22.8  2.32     4\n 4  21.4  3.22     6\n 5  18.7  3.44     8\n 6  18.1  3.46     6\n 7  14.3  3.57     8\n 8  24.4  3.19     4\n 9  22.8  3.15     4\n10  19.2  3.44     6\n# ℹ 22 more rows\n\n\n\nggplot(cars, aes(x = wt, y = mpg)) +\ngeom_point() +\nlabs(\ntitle = \"Fuel Efficiency vs Car Weight\",\nx = \"Weight (1000 lbs)\",\ny = \"Miles per Gallon (mpg)\"\n)"
+  }
+]
